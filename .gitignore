@@ -1,0 +1,7 @@
+# Obsidian local workspace config (map-wiki content itself is tracked)
+map-wiki/.obsidian/
+
+# Go
+backend/bin/
+
+# mobile/ already has its own .gitignore for node_modules, .expo, etc.
